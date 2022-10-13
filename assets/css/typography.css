@@ -1,0 +1,20 @@
+a.link {
+  display: inline-block;
+  text-align: center;
+  background-color: rgb(76, 142, 207);
+  margin: 20px;
+  width: 200px;
+}
+
+h2.subhead {
+  display: block;
+  text-align: center;
+  background-color: #f0ffff;
+}
+p {
+  background-color: #faebd7;
+  margin: 20px;
+  padding: 20px;
+  border: 10px solid #000;
+  border-radius: 10px;
+}
